@@ -1,5 +1,11 @@
+<a target="_blank" href="https://beeperdev.com/">
+  <img src="https://i.imgur.com/4ZUb4U3.png" width="100%">
+</a>
+
+
+
 <h1 align="center">Hi 👋, I'm Erica Layton</h1>
-<h3 align="center">I'm a Software Engineer based in Los Angeles, CA. I love how the power of technology helps bring people together.</h3>
+<h3 align="center">I'm a Software Engineer based in Los Angeles, CA. I love how the power of technology can help bring people together.</h3>
 
 - 👨‍💻 All of my projects are available at [beeperdev.com](beeperdev.com)
 
