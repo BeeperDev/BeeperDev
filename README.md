@@ -1,16 +1,42 @@
+<div align="center">
 <a target="_blank" href="https://beeperdev.com/">
-  <img src="https://i.imgur.com/4ZUb4U3.png" width="100%">
+  <img src="https://imgur.com/5t8PO6O.png" width="100%">
 </a>
-
-
-
+<a href="https://github.com/beeperdev" target="_blank">
+   <img height="26px" src="https://komarev.com/ghpvc/?username=beeperdev&style=for-the-badge&color=218B82" alt="profile views" style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/beeperdev/" target="_blank">
+   <img height="26px" src="https://img.shields.io/badge/linkedin-%2300acee.png?color=90CDC3&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+ <a href="https://twitter.com/beeperdev" target="_blank">
+   <img height="26px" src="https://img.shields.io/badge/twitter-%2300acee.png?color=F4CFDF&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/ericalayton" target="_blank">
+   <img height="26px" src="https://img.shields.io/badge/instagram-%ff5851db.png?color=B6D8F2&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:beeperdev.erica@gmail.com" target="_blank">
+   <img height="26px" src="https://img.shields.io/badge/Gmail-F7F6CF?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
+   </a>
+ <a href="https://discord.com/users/455193821949591563/" target="_blank">
+   <img height="26px" src="https://dcbadge.vercel.app/api/shield/455193821949591563?theme=grey&logoColor=pink" alt="discord" style="margin-bottom: 5px;" />
+   </a>  
+  
+  
+  
+  
+  
 <h1 align="center">Hi 👋, I'm Erica Layton</h1>
 <h3 align="center">I'm a Software Engineer based in Los Angeles, CA. I love how the power of technology can help bring people together.</h3>
 
 - 👨‍💻 All of my projects are available at [beeperdev.com](beeperdev.com)
 
 - 📫 How to reach me **beeperdev.erica@gmail.com**
-
+</div>
+  
+  
+  
+  
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/beeperdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="beeperdev" height="30" width="40" /></a>
