@@ -27,7 +27,7 @@
 <div align="left">  
 
 <h5>Hi 👋, I'm Erica Dayton</h5>
-<h5>I'm a Software Engineer based in Los Angeles, CA. I love creating.</h5>
+<h5>I'm a Fullstack Developer based in Los Angeles, CA. I love creating.</h5>
 
 - 👨‍💻 Some of my projects are available at [beeperdev.com](beeperdev.com)
 
