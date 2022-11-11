@@ -1,6 +1,6 @@
 <div align="center">
 <a target="_blank" href="https://beeperdev.com/">
-  <img src="https://imgur.com/5t8PO6O.png" width="100%">
+  <img src="https://i.imgur.com/y6CjRmt.png" width="100%">
 </a>
 <a href="https://github.com/beeperdev" target="_blank">
    <img height="26px" src="https://komarev.com/ghpvc/?username=beeperdev&style=for-the-badge&color=218B82" alt="profile views" style="margin-bottom: 5px;" />
@@ -26,8 +26,8 @@
   
 <div align="left">  
 
-<h5>Hi 👋, I'm Erica Layton</h5>
-<h5>I'm a Software Engineer based in Los Angeles, CA. I love how the power of technology can help bring people together.</h5>
+<h5>Hi 👋, I'm Erica Dayton</h5>
+<h5>I'm a Software Engineer based in Los Angeles, CA. I love creating.</h5>
 
 - 👨‍💻 Some of my projects are available at [beeperdev.com](beeperdev.com)
 
