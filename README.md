@@ -45,6 +45,7 @@
           <img src='assets/css3.png' width='20%'>
           <img src='assets/bootstrap.png' width='20%'>
           <img src='assets/react.png' width='20%'>
+          <img src='assets/tailwindcss.png' width='20%'>
         </div>                                 
     </td>
     <td valign='top' width='33.33%'>
@@ -67,4 +68,10 @@
     </td>
   </tbody>
 </table>
+
+
+
+
+
+
 
