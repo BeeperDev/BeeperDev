@@ -78,7 +78,7 @@
       <h3 align="center">Portfolio</h3>
       <br />
       <a target="_blank" href="https://beeperdev.com/">
-        <img src="images/gif1.gif" width="100%" alt="Travel App"/>
+        <img src="assets/portfolioGif.gif" width="100%" alt="portfolio gif"/>
       </a>
       <br />
       <p align="center">
