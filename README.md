@@ -85,20 +85,20 @@
         <a href="https://github.com/BeeperDev/Portfolio" target="_blank"><img height="26px" src="https://raster.shields.io/badge/repo-%2300acee.png?color=218B82&style=for-the-badge&logo=github&logoColor=white" alt="githubRepo" style="margin-bottom: 5px;" /></a>
         <a href="https://beeperdev.com/" target="_blank"><img height="26px" src="https://raster.shields.io/badge/website-%2300acee.png?color=90CDC3&style=for-the-badge" alt="portfolio" style="margin-bottom: 5px;" /></a>
       </p>
-      <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
+      <p><strong>HTML, CSS, JavaScript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td> 
     <td width="50%" valign="top">
       <h3 align="center">TinDog App Landing Page</h3>
       <br />
       <a target="_blank" href="https://tindogapp.netlify.app/">
-        <img src="assets/demo-tindog2.gif" width="100%"  alt="tindog app"/>
+        <img src="assets/tindog.gif" width="100%"  alt="tindog app"/>
       </a>
       <br />
       <p align="center">
         <a href="https://github.com/BeeperDev/TinDog-app" target="_blank"><img height="26px" src="https://raster.shields.io/badge/repo-%2300acee.png?color=90CDC3&style=for-the-badge&logo=github&logoColor=white" alt="githubRepo" style="margin-bottom: 5px;" /></a>
         <a href="https://tindogapp.netlify.app/" target="_blank"><img height="26px" src="https://raster.shields.io/badge/website-%2300acee.png?color=F4CFDF&style=for-the-badge" alt="tindog" style="margin-bottom: 5px;" /></a>
       </p>
-      <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
+      <p><strong>HTML, CSS, JavaScript, Bootstrap</strong> - This landing page is a mock up for an app called TinDog. Helps visitors learn about a product and encourage potential customers to download the app!</p>
     </td>
   </tr> 
 </table>
