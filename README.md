@@ -88,19 +88,15 @@
       <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
     </td> 
     <td width="50%" valign="top">
-      <h3 align="center">Rigley 2: "Flappy Bug"</h3>
+      <h3 align="center">TinDog App Landing Page</h3>
       <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-        <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
+      <a target="_blank" href="https://tindogapp.netlify.app/">
+        <img src="assets/demo-tindog2.gif" width="100%"  alt="tindog app"/>
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-        </a>
-        <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-        </a>
+        <a href="https://github.com/BeeperDev/TinDog-app" target="_blank"><img height="26px" src="https://raster.shields.io/badge/repo-%2300acee.png?color=90CDC3&style=for-the-badge&logo=github&logoColor=white" alt="githubRepo" style="margin-bottom: 5px;" /></a>
+        <a href="https://tindogapp.netlify.app/" target="_blank"><img height="26px" src="https://raster.shields.io/badge/website-%2300acee.png?color=F4CFDF&style=for-the-badge" alt="tindog" style="margin-bottom: 5px;" /></a>
       </p>
       <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
     </td>
