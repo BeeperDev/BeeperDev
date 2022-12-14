@@ -32,6 +32,13 @@
 - 👨‍💻 Some of my projects are available at <a target="_blank" href="https://beeperdev.com/">BeeperDev.com</a>
 
 - 📫 How to reach me **beeperdev.erica@gmail.com**
+  
+- 👨‍💻 What I'm learning now: <br>
+  <div width='22px'></div>
+  <img height="22px" src="https://raster.shields.io/badge/typescript-%2300acee.png?color=F4CFDF&style=for-the-badge" alt="twitter" /> 
+  <img height="22px" src="https://raster.shields.io/badge/vue-%2300acee.png?color=B6D8F2&style=for-the-badge" alt="twitter" />
+  
+  
 </div>
  
 
