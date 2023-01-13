@@ -37,6 +37,7 @@
   <div width='22px'></div>
   <img height="22px" src="https://raster.shields.io/badge/typescript-%2300acee.png?color=F4CFDF&style=for-the-badge" alt="twitter" /> 
   <img height="22px" src="https://raster.shields.io/badge/vue-%2300acee.png?color=B6D8F2&style=for-the-badge" alt="twitter" />
+  <img height="22px" src="https://raster.shields.io/badge/java-%2300acee.png?color=F7F6CF&style=for-the-badge" alt="twitter" />
   
   
 </div>
